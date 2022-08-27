@@ -32,7 +32,7 @@ import random
 pygame.init()
 
 
-fps = 15
+fps = 20
 fpsClock = pygame.time.Clock()
 di = 4
 width = 640
